@@ -412,3 +412,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Aug2025 18:57:18.195] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
 [15Aug2025 18:58:02.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:52335] logged in with entity id 75 at (630.5920760488742, 96.0, 256.80063797953204)
 [15Aug2025 18:58:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morangg joined the game
+[15Aug2025 19:38:34.619] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Stopped ship assembly due too many blocks
+[15Aug2025 19:38:34.620] [Server thread/WARN] [org.valkyrienskies.eureka.blockentity.ShipHelmBlockEntity/]: Failed to assemble ship for Morangg
+[15Aug2025 19:38:37.667] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Stopped ship assembly due too many blocks
+[15Aug2025 19:38:37.667] [Server thread/WARN] [org.valkyrienskies.eureka.blockentity.ShipHelmBlockEntity/]: Failed to assemble ship for Morangg
+[15Aug2025 19:38:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Aug2025 19:38:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[15Aug2025 19:38:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Aug2025 19:38:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 19:38:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 19:38:53.347] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[15Aug2025 19:38:53.348] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[15Aug2025 19:38:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 19:38:53.393] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[15Aug2025 19:38:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[15Aug2025 19:38:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[15Aug2025 19:38:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[15Aug2025 19:38:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[15Aug2025 19:38:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[15Aug2025 19:38:53.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

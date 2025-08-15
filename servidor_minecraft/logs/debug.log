@@ -7987,3 +7987,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Aug2025 19:27:18.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
 [15Aug2025 19:32:18.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
 [15Aug2025 19:32:18.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[15Aug2025 19:37:18.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[15Aug2025 19:37:18.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[15Aug2025 19:38:34.619] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Stopped ship assembly due too many blocks
+[15Aug2025 19:38:34.620] [Server thread/WARN] [org.valkyrienskies.eureka.blockentity.ShipHelmBlockEntity/]: Failed to assemble ship for Morangg
+[15Aug2025 19:38:37.667] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Stopped ship assembly due too many blocks
+[15Aug2025 19:38:37.667] [Server thread/WARN] [org.valkyrienskies.eureka.blockentity.ShipHelmBlockEntity/]: Failed to assemble ship for Morangg
+[15Aug2025 19:38:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Aug2025 19:38:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[15Aug2025 19:38:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Aug2025 19:38:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 19:38:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 19:38:53.347] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[15Aug2025 19:38:53.348] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[15Aug2025 19:38:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 19:38:53.393] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[15Aug2025 19:38:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:overworld
+[15Aug2025 19:38:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:jurassic
+[15Aug2025 19:38:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_nether
+[15Aug2025 19:38:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:triassic
+[15Aug2025 19:38:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/minecraft:the_end
+[15Aug2025 19:38:53.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo def3]'/prehistoricfauna:cretaceous
+[15Aug2025 19:38:53.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo def3
+[15Aug2025 19:38:53.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo def3
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[15Aug2025 19:38:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[15Aug2025 19:38:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Aug2025 19:38:53.803] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[15Aug2025 19:38:53.803] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[15Aug2025 19:38:53.811] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for prehistoricfauna:jurassic
+[15Aug2025 19:38:53.811] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for prehistoricfauna:jurassic
+[15Aug2025 19:38:53.812] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[15Aug2025 19:38:53.812] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[15Aug2025 19:38:53.812] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for prehistoricfauna:triassic
+[15Aug2025 19:38:53.812] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for prehistoricfauna:triassic
+[15Aug2025 19:38:53.813] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[15Aug2025 19:38:53.813] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[15Aug2025 19:38:53.813] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for prehistoricfauna:cretaceous
+[15Aug2025 19:38:53.813] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for prehistoricfauna:cretaceous
+[15Aug2025 19:38:53.817] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "4e0a0dd0-770f-39a6-8ba1-af6463612809",
+    "name": "Morangg",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
